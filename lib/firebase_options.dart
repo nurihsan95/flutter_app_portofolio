@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '459818381839',
     projectId: 'flutter-app-portofolio',
     storageBucket: 'flutter-app-portofolio.appspot.com',
-    iosClientId: '459818381839-kc5rb41mr6sbu1iprqaphqurf2kek1hq.apps.googleusercontent.com',
+    iosClientId:
+        '459818381839-kc5rb41mr6sbu1iprqaphqurf2kek1hq.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterAppPortofolio',
   );
 }
